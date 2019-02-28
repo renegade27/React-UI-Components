@@ -1,0 +1,11 @@
+footer {
+    margin-top: 17.5px;
+    margin-left: 60px;
+    width: 80%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+i {
+    margin-right: 40px;
+}

@@ -1,1 +1,47 @@
 /* All styles for your Card Components live here */
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+}
+  
+.banner-container {
+    height: 280px;
+    width: 80%;
+    margin: 30px auto 0 auto;
+    border-radius: 2px;
+    background-size: contain;
+}
+
+.content-img {
+    border-radius: 2px 2px 0 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.content-bottom {
+    height: 120px;
+    background: #ffffff;
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 1px solid grey;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-radius: 0 0 2px 2px;
+}
+
+.content-header {
+    padding-left: 7.5px;
+    font-weight: bold;
+}
+
+.content-block {
+    padding-left: 7.5px;
+    margin: 0;
+}
+
+.content-link {
+    padding-left: 7.5px;
+    text-decoration: none;
+    color: #d1d2d3;
+}
