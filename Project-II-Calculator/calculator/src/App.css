@@ -1,0 +1,23 @@
+* {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.calculator-wrapper {
+    border: 2px solid black;
+    margin-top: 4%;
+    max-width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.calculator-wrapper .content-row {
+    width: 100%;
+    display: flex;
+    border: 0.5px solid grey;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+

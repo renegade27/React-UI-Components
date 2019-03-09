@@ -1,0 +1,39 @@
+.action {
+    font-size: 5.6rem;
+    height: 50px;
+    width: 25%;
+    background-color: #bf0404;
+    border: 1px solid grey;
+    color: white;
+    display: flex;
+    text-align: center;
+    line-height: 100%;
+}
+
+.clear {
+    background-color: white;
+    width: 75%;
+    color: black;
+}
+
+.action .small-button {
+    font-size: 6.2rem;
+    height: 50px;
+}
+
+
+.number {
+    font-size: 5.6rem;
+    height: 50px;
+    width: 25%;
+    background-color: white;
+    border: 1px solid grey;
+    color: black;
+    display: flex;
+    text-align: center;
+    line-height: 100%;
+}
+
+.zero {
+    width: 75%;
+}
